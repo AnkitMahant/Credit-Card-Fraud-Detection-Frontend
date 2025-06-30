@@ -2,28 +2,16 @@
 
 A modern and responsive frontend for a Credit Card Fraud Detection System. Built using **HTML**, **CSS**, and **Vanilla JavaScript**, this interface allows users to submit transaction details and view fraud detection results in real-time.
 
----
-
-## 🚀 Live Demo
-
-🔗 Click the button below to open the live hosted frontend on GitHub Pages:
-
-[![View Live](https://img.shields.io/badge/View%20Live-Demo-blue?style=for-the-badge&logo=github)](https://ankitmahant.github.io/Credit-Card-Fraud-Detection-Frontend/)
-
----
-
-## 🖼️ Screenshot
-
-![App Screenshot](https://github.com/AnkitMahant/Credit-Card-Fraud-Detection-Frontend/assets/your-screenshot-id/demo-screenshot.png)
 
 > *📸 Upload a screenshot using GitHub (via Issues or commits), then replace the link above with the actual image URL.*
 
 ---
 
 ## 📁 Folder Structure
-
-
----
+Credit-Card-Fraud-Detection-Frontend/
+├── index.html # Main HTML page
+├── style.css # CSS for styling
+└── README.md # Project overview
 
 ## 💡 Features
 
