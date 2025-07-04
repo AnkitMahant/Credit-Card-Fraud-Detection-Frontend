@@ -3,7 +3,7 @@
 A modern and responsive frontend for a Credit Card Fraud Detection System. Built using **HTML**, **CSS**, and **Vanilla JavaScript**, this interface allows users to submit transaction details and view fraud detection results in real-time.
 
 
-> *📸 Upload a screenshot using GitHub (via Issues or commits), then replace the link above with the actual image URL.*
+
 
 ---
 
